@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.language-item {
+  margin: 20px;
+  color: #1e293b;
+  font-weight: 500;
+  font-family: 'Roboto';
+  border: none;
+  background-color: transparent;
+}
+
+.active {
+  border: 1px solid #0284c7;
+  border-radius: 8px;
+}
